@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noaimahmad
 - 👀 I’m interested in Web Develpment and C++
 - 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for Web Developer friend
 - 📫 Find me on Social Media: NoaimAhmadGigyani
 - 😄 Pronouns: Master Mind
 - ⚡ Fun fact: Follow me on Instagram
