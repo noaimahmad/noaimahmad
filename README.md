@@ -62,8 +62,8 @@
 ---
 
 ### 📫 Connect
-- 📧 **Email:** <noaimahmad6@gmail.com>  
+- 📧 **Email:** <millionofnewlife@gmail.com>  
 - 🧑‍💻 **GitHub:** [@noaimahmad](https://github.com/noaimahmad)  
-- 🧵 **X (Twitter):** *(add link)* • 📷 **Instagram:** *(add link)* • 💼 **LinkedIn:** *(add link)*
+- 🧵 **FB (FaceBook):** *(https://www.facebook.com/HackerUtman)* • 📷 **Instagram:** *(https://www.instagram.com/noaim_media?igsh=MXF6aDcxNzAzZDI4Yw==)* • 
 
 ---
