@@ -32,19 +32,19 @@
 
 ### 🧩 Featured Projects
 - **Image Search Engine** — Responsive search using Unsplash API with infinite scroll.  
-  🔗 [Live](https://noaimahmad.github.io/portfolio/) • 💻 [Code](https://github.com/noaimahmad/IMAGE-SEARCH-ENGINE) *(update link if different)*
+  🔗 [Live](https://noaimahmad.github.io/Image-Search-Engine/) • 💻 [Code](https://github.com/noaimahmad/Image-Search-Engine) *(update link if different)*
 
 - **Text-to-Speech App** — Write and listen in different voices using Web Speech API.  
-  🔗 [Live](https://noaimahmad.github.io/portfolio/) • 💻 [Code](https://github.com/noaimahmad/TEXT-TO-SPEECH) *(update)*
+  🔗 [Live](https://noaimahmad.github.io/Text-to-Speech-Converter/) • 💻 [Code](https://github.com/noaimahmad/Text-to-Speech-Converter) *(update)*
 
 - **Crypto Currency Website** — Cards, charts, and news via REST API.  
-  🔗 [Live](https://noaimahmad.github.io/portfolio/) • 💻 [Code](https://github.com/noaimahmad/CRYPTO-WEBSITE) *(update)*
+  🔗 [Live](https://noaimahmad.github.io/portfolio/) • 💻 [Code](https://github.com/noaimahmad/Crypto-Currency-Website) *(update)*
 
 - **Weather App** — City search with OpenWeather, clean UI.  
-  🔗 [Live](https://noaimahmad.github.io/portfolio/) • 💻 [Code](https://github.com/noaimahmad/WEATHER-APP) *(update)*
+  🔗 [Live](https://noaimahmad.github.io/Weather-App/) • 💻 [Code](https://github.com/noaimahmad/Weather-App) *(update)*
 
 - **Afghanistan Tourism Website** — Culture, destinations, tips; fully responsive.  
-  🔗 [Live](https://noaimahmad.github.io/portfolio/) • 💻 [Code](https://github.com/noaimahmad/AFGHANISTAN-TOURISM) *(update)*
+  🔗 [Live](https://noaimahmad.github.io/The-Tourism-Website/) • 💻 [Code](https://github.com/noaimahmad/The-Tourism-Website/tree/main) *(update)*
 
 > Replace the **Code** links with your actual repo names, and **Live** with your GitHub Pages URLs if each project has its own page.
 
