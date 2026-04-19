@@ -1,69 +1,56 @@
 <h1 align="center">Hi, I'm Noaim Ahmad 👋</h1>
-<p align="center">
-  <b>Frontend Developer</b> — I build fast, accessible and responsive web experiences with clean, modern UI.
-</p>
 
 <p align="center">
-  <a href="https://noaimahmad.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?logo=googlechrome&logoColor=white"></a>
-  <a href="mailto:noaimahmad6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-noaimahmad6%40gmail.com-2563eb?logo=gmail&logoColor=white"></a>
-  <img alt="views" src="https://komarev.com/ghpvc/?username=noaimahmad&label=Profile%20Views&color=0e75b6&style=flat">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&lines=Full-Stack+Developer;Building+Scalable+Web+Apps;Security-Focused+Web+Tester;Passionate+about+3D+UX" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available_for_Work-059669?style=for-the-badge&logo=codeforces">
+  <img src="https://img.shields.io/badge/Security-Web_Tester-DC2626?style=for-the-badge&logo=securityscorecard">
+  <img src="https://img.shields.io/badge/Focus-Scalability-7C3AED?style=for-the-badge&logo=dependencycheck">
 </p>
 
 ---
 
-### 🚀 About me
-- 🌱 Currently learning **Shopify** and improving **React**.
-- 🛠️ I like turning ideas into **real products** with clean code & great UX.
-- 🤝 Open to **freelance/remote** frontend work.
+### 🚀 About Me
+- 🔭 Currently refining my **Full-Stack** architecture skills with **Laravel**, **Node.js**, and modern **React** state management.
+- 🛠️ Transitioning from frontend-focused work to **end-to-end application development**—identifying bugs, securing endpoints, and designing robust databases.
+- ⚡ In my free time, I explore **3D Web Animations** to bring user interfaces to life.
 
-### 🧰 Tech Toolbox
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-![APIs](https://img.shields.io/badge/Web%20APIs-0ea5e9?logo=cloud&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-1abcfe?logo=figma&logoColor=fff)
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,laravel,mysql,git,github,vscode,figma,postman" />
+</div>
 
 ---
 
-### 🧩 Featured Projects
-- **Image Search Engine** — Responsive search using Unsplash API with infinite scroll.  
-  🔗 [Live](https://noaimahmad.github.io/Image-Search-Engine/) • 💻 [Code](https://github.com/noaimahmad/Image-Search-Engine) *(update link if different)*
-
-- **Text-to-Speech App** — Write and listen in different voices using Web Speech API.  
-  🔗 [Live](https://noaimahmad.github.io/Text-to-Speech-Converter/) • 💻 [Code](https://github.com/noaimahmad/Text-to-Speech-Converter) *(update)*
-
-- **Crypto Currency Website** — Cards, charts, and news via REST API.  
-  🔗 [Live](https://noaimahmad.github.io/portfolio/) • 💻 [Code](https://github.com/noaimahmad/Crypto-Currency-Website) *(update)*
-
-- **Weather App** — City search with OpenWeather, clean UI.  
-  🔗 [Live](https://noaimahmad.github.io/Weather-App/) • 💻 [Code](https://github.com/noaimahmad/Weather-App) *(update)*
-
-- **Afghanistan Tourism Website** — Culture, destinations, tips; fully responsive.  
-  🔗 [Live](https://noaimahmad.github.io/The-Tourism-Website/) • 💻 [Code](https://github.com/noaimahmad/The-Tourism-Website/tree/main) *(update)*
-
-> Replace the **Code** links with your actual repo names, and **Live** with your GitHub Pages URLs if each project has its own page.
+### 🧩 Featured Full-Stack Projects
+| Project | Key Tech | Demo |
+| :--- | :--- | :--- |
+| **Full-Stack Dental App** | React, Express, API, TS | [Live](https://dental-upgrade.vercel.app/) |
+| **Image Search Engine** | React, Unsplash API | [Live](https://noaimahmad.github.io/Image-Search-Engine/) |
+| **Weather/Crypto Dashboard** | REST APIs, Axios | [Live](https://noaimahmad.github.io/Weather-App/) |
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noaimahmad&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noaimahmad&layout=compact&theme=transparent&hide_border=true" />
-</p>
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=noaimahmad&theme=transparent&hide_border=true" />
+### 📊 Coding Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/noaimahmad/noaimahmad/output/github-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=noaimahmad&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noaimahmad&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ### 📫 Connect
-- 📧 **Email:** <millionofnewlife@gmail.com>  
-- 🧑‍💻 **GitHub:** [@noaimahmad](https://github.com/noaimahmad)  
-- 🧵 **FB (FaceBook):** *(https://www.facebook.com/HackerUtman)* • 📷 **Instagram:** *(https://www.instagram.com/noaim_media?igsh=MXF6aDcxNzAzZDI4Yw==)* • 
+- 📧 **Email:** [noaimahmad6@gmail.com](mailto:noaimahmad6@gmail.com)
+- 🧵 **Facebook:** [Noaim Ahmad](https://www.facebook.com/HackerUtman)
+- 📷 **Instagram:** [@noaim_media](https://www.instagram.com/noaim_media/)
 
----
+<p align="center">
+  <i>"Code is not just logic; it's a bridge between human intent and machine execution."</i><br>
+  <b>© 2026 Noaim Ahmad. All rights reserved.</b>
+</p>
