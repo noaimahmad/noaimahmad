@@ -31,14 +31,6 @@
 | **Image Search Engine** | React, Unsplash API | [Live](https://noaimahmad.github.io/Image-Search-Engine/) |
 | **Weather/Crypto Dashboard** | REST APIs, Axios | [Live](https://noaimahmad.github.io/Weather-App/) |
 
----
-
-### 📊 Coding Activity
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=noaimahmad&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noaimahmad&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 ---
 
