@@ -34,9 +34,6 @@
 ---
 
 ### 📊 Coding Activity
-<div align="center">
-  <img src="https://raw.githubusercontent.com/noaimahmad/noaimahmad/output/github-snake-dark.svg" alt="Snake Animation" />
-</div>
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=noaimahmad&show_icons=true&theme=transparent&hide_border=true" />
