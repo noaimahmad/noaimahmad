@@ -27,17 +27,16 @@
 ### 🧩 Featured Full-Stack Projects
 | Project | Key Tech | Demo |
 | :--- | :--- | :--- |
-| **Full-Stack Dental App** | React, Express, API, TS | [Live](https://dental-upgrade.vercel.app/) |
-| **Image Search Engine** | React, Unsplash API | [Live](https://noaimahmad.github.io/Image-Search-Engine/) |
-| **Weather/Crypto Dashboard** | REST APIs, Axios | [Live](https://noaimahmad.github.io/Weather-App/) |
+| **Dental App** |  | [Live](https://dental-upgrade.vercel.app/) |
+| **Alokozay Energy Drink** |  | [Live](https://premium-alokozay-site.vercel.app/)) |
+| **Luxury Watch** |  | [Live](https://luxury-watch-tawny-nine.vercel.app/) |
 
 
 ---
 
 ### 📫 Connect
 - 📧 **Email:** [noaimahmad6@gmail.com](mailto:noaimahmad6@gmail.com)
-- 🧵 **Facebook:** [Noaim Ahmad](https://www.facebook.com/HackerUtman)
-- 📷 **Instagram:** [@noaim_media](https://www.instagram.com/noaim_media/)
+- 📷 **Instagram:** (https://www.instagram.com/noaim__ahmad?hvrq=MXF6aDcxNzAzZDI4Yw%3D%3D&utm_source=qr)
 
 <p align="center">
   <i>"Code is not just logic; it's a bridge between human intent and machine execution."</i><br>
