@@ -28,8 +28,9 @@
 | Project | Key Tech | Demo |
 | :--- | :--- | :--- |
 | **Dental App** |  | [Live](https://dental-upgrade.vercel.app/) |
-| **Alokozay Energy Drink** |  | [Live](https://premium-alokozay-site.vercel.app/)) |
+| **Alokozay Energy Drink** |  | [Live](https://premium-alokozay-site.vercel.app/) |
 | **Luxury Watch** |  | [Live](https://luxury-watch-tawny-nine.vercel.app/) |
+| **Zyafat Resturant** |  | [Live](https://luxury-watch-tawny-nine.vercel.app/) |
 
 
 ---
